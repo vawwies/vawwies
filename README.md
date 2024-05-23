@@ -1,7 +1,3 @@
-<h1 allign="left">val</h1>
+# ![vawyant logo](header.png)
 
-###
-
-<p align="left">howdy. im valerie. <br> alot of my work wont be here, instead on my personal git. but this will do as i set that up.
-  
-###
+## [![](https://discord.c99.nl/widget/theme-4/863201526713810945.png)](https://discord.com/channels/@me/482139697796349953)
